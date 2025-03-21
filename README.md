@@ -1,13 +1,26 @@
 # Play-money
 
-Expense Manager 💰
+EXPENSE MANAGEMENT WEBSITE 📊
+web-based expense tracking and management system designed to help individuals efficiently monitor their spending, categorize expenses, and generate insightful financial reports.
 
-This project is designed to help users efficiently manage their expenses, track spending, and analyze financial habits. It provides an intuitive interface for recording transactions, categorizing expenses, and generating reports.
+🎯 Goals
+Upon project proposal acceptance, the next steps include:
 
-📌 Project Status
-Currently in the documentation phase.
+Planning & Requirements Gathering – Identifying user needs and technical requirements
 
-👥 Team
-Developed by Yasmin, Abdulrahman, and Muhammad.
+Functional Requirements Definition – Outlining system capabilities and features
 
-Stay tuned for updates as we progress with development! 🚀
+🔍 Development Approach
+problem statement,Business case,scope and goals – [Assigned to Mohammed]
+
+planning & Requirements gathering – [Assigned to Mohammed]
+
+SDLC Model – [Assigned to Yasmin]
+
+System Use Case Diagram – [Assigned to Yasmin]
+
+UI/UX Design (Mockups) – [Assigned to Abdulrahman]
+
+Gantt Chart for Project Timeline – [Assigned to Abdulrahman]
+
+Stay tuned for updates as we progress with the development! 🚀
