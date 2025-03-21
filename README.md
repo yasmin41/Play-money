@@ -36,3 +36,31 @@ EXPENSE MANAGEMENT WEBSITE 📊
 
 
 Stay tuned for updates as we progress with the development! 🚀
+
+<!-- - Project Archiving & Activity Logs   -->
+<!-- - CI/CD Ready: GitHub Actions, Docker, Maven -->
+
+<!-- ---
+
+## Pages
+- **index.html** — Landing Page  
+- **login.html** — User Authentication  
+- **dashboard.html** — Project Overview and Navigation  
+- **tasks.html** — Task Management Interface  
+- **admin.html** — Admin Controls and Role Management   -->
+
+---
+
+## Contributors
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+     <a href="https://github.com/yasmin41" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://github.com/yasmin41.png" alt="@yasmin41" title="@yasmin41" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
+    <a href="https://github.com/proganajlat03" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://github.com/proganajlat03.png" alt="@rasha-2k" title="@rasha-2k" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
+     <a href="https://github.com/MohamadBraighesh" style="text-decoration: none; display: flex; align-items: center;">
+        <img src="https://github.com/MohamadBraighesh.png" alt="@yasmin41" title="@yasmin41" width="100px" height="100px" style="border-radius: 50%; margin-right: 10px;">
+    </a>
+   
+</div>
