@@ -1,3 +1,6 @@
+@extends('main.layout')
+@section('content')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,3 +30,4 @@
     </div>
 </body>
 </html>
+@stop

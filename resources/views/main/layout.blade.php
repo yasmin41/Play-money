@@ -8,9 +8,14 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success p-3">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">Play Money - Dashboard</a>
-        </div>
+            <a class="navbar-brand h3" href="#">Play Money</a>
+            <div class="lead">
+                <a class="navbar-brand" href="{{url('/dashboard')}}">Dashboard</a>
+                <a class="navbar-brand" href="{{url('/add expense')}}">add expense</a>
+                <a class="navbar-brand" href="{{url('/expense list')}}">expense list</a>
+            </div>
     </nav>
+    @yield('content')
+
 </body>
 </html>
